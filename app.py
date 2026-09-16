@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for
 app = Flask(__name__)
 
 
-todos = ["vkbdsnlblknd", "kabv uejduk"]
+todos = []
 
 
 # Display todos
